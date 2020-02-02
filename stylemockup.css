@@ -1,0 +1,60 @@
+.entête
+{
+    display: flex;
+}
+.entête
+{
+    margin-top: 2%;
+    background-color: #F1ECE6;
+}
+.liens
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-left: 8%;
+}
+.home
+{
+    margin-left: -50%;
+}
+.centreimage
+{
+    width: 120%;
+}
+.logo
+{
+    width: 10%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+
+}
+.centre
+{
+    display: flex;
+}
+.texte
+{
+    margin-left: 12%;
+}
+.button
+{
+    margin-left: 62%;
+}
+.fond
+{
+    background-color: #F5F4F2;
+}
+.centre
+{
+    margin-top: 3%;
+}
+.button
+{
+    padding: 20px 60px;
+    background: #F1ECE6;
+    color:black;
+    font-size: 22px;
+}
+
